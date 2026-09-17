@@ -22,7 +22,7 @@ This repo tracks my progress through CS50P. I am reinforcing my foundational Pyt
 ## Structure
  
 ```
-cs50p-practice/
+cs50p-python/
 ├── week0/
 ├── week1/
 ├── week2/
